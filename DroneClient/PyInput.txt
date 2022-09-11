@@ -1,0 +1,6 @@
+Up:2
+Right:3
+Turn left:1
+Forward:3
+Turn right:1
+Up:2

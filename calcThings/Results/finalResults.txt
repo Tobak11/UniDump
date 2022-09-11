@@ -1,0 +1,1 @@
+1.0006195636036945 - Periods: 222 : 46 : 46, transaction count: 12181.0 smoothing: 0.4, delay: 1
